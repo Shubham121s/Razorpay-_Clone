@@ -14,7 +14,7 @@ The website includes the following pages and features:
 # Getting Started
 To run the website locally, you can follow these steps:
 
-- Clone the repository to your local machine: git clone https://github.com/Karanchaudhary350/razorpay-clone.git
+
 - Open the index.html file in your web browser
 - Modify the HTML and CSS files as needed to customize the website
 
